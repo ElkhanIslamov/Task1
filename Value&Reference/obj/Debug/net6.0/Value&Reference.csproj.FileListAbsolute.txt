@@ -1,0 +1,14 @@
+D:\Рабочий стол\Value&Reference\Value&Reference\bin\Debug\net6.0\Value&Reference.exe
+D:\Рабочий стол\Value&Reference\Value&Reference\bin\Debug\net6.0\Value&Reference.deps.json
+D:\Рабочий стол\Value&Reference\Value&Reference\bin\Debug\net6.0\Value&Reference.runtimeconfig.json
+D:\Рабочий стол\Value&Reference\Value&Reference\bin\Debug\net6.0\Value&Reference.dll
+D:\Рабочий стол\Value&Reference\Value&Reference\bin\Debug\net6.0\Value&Reference.pdb
+D:\Рабочий стол\Value&Reference\Value&Reference\obj\Debug\net6.0\Value&Reference.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\Value&Reference\Value&Reference\obj\Debug\net6.0\Value&Reference.AssemblyInfoInputs.cache
+D:\Рабочий стол\Value&Reference\Value&Reference\obj\Debug\net6.0\Value&Reference.AssemblyInfo.cs
+D:\Рабочий стол\Value&Reference\Value&Reference\obj\Debug\net6.0\Value&Reference.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Value&Reference\Value&Reference\obj\Debug\net6.0\Value&Reference.dll
+D:\Рабочий стол\Value&Reference\Value&Reference\obj\Debug\net6.0\refint\Value&Reference.dll
+D:\Рабочий стол\Value&Reference\Value&Reference\obj\Debug\net6.0\Value&Reference.pdb
+D:\Рабочий стол\Value&Reference\Value&Reference\obj\Debug\net6.0\Value&Reference.genruntimeconfig.cache
+D:\Рабочий стол\Value&Reference\Value&Reference\obj\Debug\net6.0\ref\Value&Reference.dll
